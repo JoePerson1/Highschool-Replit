@@ -1,0 +1,6 @@
+print(2**14284)
+print(3**9012)
+print(4**7142)
+print(5**6151)
+print(6**5525)
+print("Joe"+"Vu")
